@@ -57,9 +57,9 @@ I will continue to develop in positioning elements with css and responsive desig
 
 ## Author
 
-- Website - [Add your name here](https://arizennonyelu.xyz)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/arize99)
-- Twitter - [@yourusername](https://www.twitter.com/upgrade1010)
+- Website - [Arize Nnonyelu](https://arizennonyelu.xyz)
+- Frontend Mentor - [@arize99](https://www.frontendmentor.io/profile/arize99)
+- Twitter - [@upgrade1010](https://www.twitter.com/upgrade1010)
 
 ## Acknowledgments
 
